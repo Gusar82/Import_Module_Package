@@ -1,2 +1,2 @@
-from Bookkeeping.application import *
-
+from Bookkeeping.application.people import *
+from Bookkeeping.application.salary import *
